@@ -37,7 +37,7 @@ services:
   - key: HEROKU_HOSTED
     value: true
   - key: LICENSE_KEY
-    value: SSOP_9877f102-118b-46a3-a9b2-05317f8e9caf
+    value: b10934b3-9116-4e15-b555-04070982428b
 
 databases:
 - name: retool
